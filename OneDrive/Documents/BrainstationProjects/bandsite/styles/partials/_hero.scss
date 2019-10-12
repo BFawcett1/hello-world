@@ -1,0 +1,13 @@
+
+.hero__image{
+    position: relative;
+    width: 100%;
+}
+
+.hero__text{  
+    bottom: 275px;
+    position: absolute;
+    z-index: 1;
+    color: $white-text;
+    margin-left: 5%;
+}

@@ -1,0 +1,21 @@
+$white-text: white;
+$black-background: #323232;
+
+
+.header__top-container{
+    display: flex;
+    justify-content: center;
+    color: $white-text;
+}
+
+.header__bottom-container{
+    display: flex;
+    justify-content: space-around;
+    color: $white-text;
+}
+
+
+.header{
+    background-color: $black-background;
+    width: 100%;
+}

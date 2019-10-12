@@ -1,0 +1,34 @@
+@media only screen and (min-width: 678px){
+    .about__paragraph__container{
+        display: flex;
+        flex-direction: row;
+    }
+
+    .about__paragraph1{
+        display: flex;
+        margin-right: 24px;
+    }
+
+    .photo-gallery__container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .photo-gallery__image{
+        width: 29%;
+        display: flex;
+        margin-bottom: 16px;
+        }
+    
+    .footer__agents{
+        display: flex;
+
+    }
+
+    .footer__agents__container{
+        display: flex;
+    }
+    }
+

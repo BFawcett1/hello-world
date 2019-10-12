@@ -1,0 +1,32 @@
+.about{
+    margin: 0 5%;
+}
+
+.about__header{ 
+    margin-top: 32px;
+    margin-bottom: 24px;
+}
+
+.about__medium-header{
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
+.about__small-header{
+    margin-bottom: 40px;
+}
+
+.about__third-header{
+    margin-bottom: 24px;
+}
+
+.about__img{
+    width: 100%;
+}
+
+.about__img__container{
+    height: 183px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
